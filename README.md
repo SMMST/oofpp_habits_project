@@ -13,7 +13,7 @@ This basic App concept is suitable for further development  and implementing Gra
 ## Installation
 
 ```shell
-- Download the GitHub repository:     
+- Download the GitHub repository:  https://github.com/SMMST/oofpp_habits_project   
 - run the command: 
   pip install-r requirements.txt
 ```
